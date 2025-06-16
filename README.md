@@ -24,3 +24,7 @@ This project successfully demonstrates the basic principles of home automation u
 
 Overall, the project offers a hands-on experience in building a functional automation system, enhances understanding of embedded programming, and reinforces circuit design skills—all within the convenience and safety of a virtual simulation environment.
 
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/c6b5f10c-5c5c-42a6-b22b-490001db0bad)
